@@ -1,0 +1,12 @@
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\BinCrypto\BinCrypto\bin\Debug\BinCrypto.exe.config
+C:\CODING\проекты С#\шифр\BinCrypto\BinCrypto\bin\Debug\BinCrypto.exe.config
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\bin\Debug\BinCrypto.exe.config
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\bin\Debug\BinCrypto.exe
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\bin\Debug\BinCrypto.pdb
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\obj\Debug\BinCrypto.csprojAssemblyReference.cache
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\obj\Debug\BinCrypto.Form1.resources
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\obj\Debug\BinCrypto.Properties.Resources.resources
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\obj\Debug\BinCrypto.csproj.GenerateResource.cache
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\obj\Debug\BinCrypto.csproj.CoreCompileInputs.cache
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\obj\Debug\BinCrypto.exe
+C:\CODING\C#\BinCrypto\BinCrypto — копия\BinCrypto\obj\Debug\BinCrypto.pdb
